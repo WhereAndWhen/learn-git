@@ -3,3 +3,4 @@ Git is free software.
 Git has a mutable index called stage.
 Git tracks changes of files.
 change global name and email.
+Jaelyn is my English name.
